@@ -1,0 +1,11 @@
+Assignment 1:
+1. Line 15 caused the segmentation fault
+2. You put the & symbol in front of input
+3. 
+4.
+Assignment 2:
+1. Yes, the output was expected
+2. No, thats not what is expected. The previous second string is still there and gets added.
+3. No, the output isn't expexted. I believe it has to do with the size of the arrays being too small. 
+
+

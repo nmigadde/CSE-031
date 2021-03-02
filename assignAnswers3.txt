@@ -1,0 +1,10 @@
+Assignment 1
+1. a. We pass the size you can create another array with the same size. Also for the for loops to stop at the last elemnt or the one before.
+b. No, at the end of the function the returned array is passed to the sorted array and not the original array.
+c. A new array is needed because in the main function you can see both the original array and sorted array are printed. The function is called before the print commands.
+2. Done
+3. Done
+Assignment 2
+1.Done
+2.Done
+3.Done
